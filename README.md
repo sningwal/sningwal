@@ -1,18 +1,10 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/sningwal/sningwal/main/wave.gif" alt ="👋" width="30px"/> I'M SANDEEP NINGWAL from <img src="https://raw.githubusercontent.com/sningwal/sningwal/main/ind.png" weight = "25px" height = "15px" alt = "India" style="max-width: 100%;"/></h1>
 
 - 🔭 I’m currently working on <a href="https://cryptoranking.net/" target="_blank"> Cryptoranking <a>.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  
--💬 Ask me about React, Node.js.
-  
--📫 How to reach me: DM @ on  or Email me.
-  
+- 🌱 I’m currently doing DSA.
+-💬 Ask me about React.
+-📫 How to reach me: sandeepningwal5@gmail.com.
 -😄 Pronouns: he/him.
-  
--⚡ Fun fact: I love music & participating in .
-  
   
 ## 🔧 Technologies & Tools
 
@@ -50,9 +42,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
-![Hostinger]()
+![Hostinger]
 ![Digital Ocean]
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
 
 ### Editors
 
