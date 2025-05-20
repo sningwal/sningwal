@@ -5,12 +5,10 @@
  📫 Reach me at: <br>
  
  <p align="center">
- 	<a href='mailto:sandeepningwal17@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a>
+ 	<a href='mailto:sandeepningwal17@gmail.com' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='45' weight='45' /></a> 
 	<a href = 'https://linkedin.com/in/sandeepningwal' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 </p>
- 
- 
-<h3  align="center"> <a href = "https://drive.google.com/file/d/1YwT4s3vg5co1AGdN-TABs_qZEhYiF-?usp=sharing"> My Resume </a> </h3>
+<!-- <h3  align="center"> <a href = "https://drive.google.com/file/d/1YwT4s3vg5co1AGdN-TABs_qZEhYiF-?usp=sharing"> My Resume </a> </h3> -->
  </div>
 
 
