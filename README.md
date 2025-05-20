@@ -1,4 +1,4 @@
-<h3  align="center"> Hello there! , I am <a href="https://sandeepningwal.com/"> Sandeep Ningwal </a> ✌ </h3>
+<h3  align="center"> Hello there! , I am <a href="https://sandeepningwal.com/" target='_blank'> Sandeep Ningwal </a> ✌ </h3>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=sningwal&style=flat-square" alt="sningwal" /></p>
 
 
@@ -20,7 +20,7 @@ I am Sandeep Ningwal. I work as Graduate Engineer Trainee at Aditya Birla Capita
 
 - What I know : Backend(ExpressJS,NodeJS), Frontend(ReactJS/NextJS), Software Engineering.
 - Some knowledge on : Developing REST APIs, Backend Developemnt, Data Science/ML, Big Data(Teradata). 
-- 🔭 I’m currently working as an Graduate Engineer Trainee at [Aditya Birla Capital](https://.com). 
+- 🔭 I’m currently working as an Graduate Engineer Trainee at [Aditya Birla Capital]. 
 - 🌱 Languages I know : Python3, C/C++, Java, JS.
 - ⚡ Languages I wanted to learn : Golang.
 - 💬 Major Hobbies : Marvel Movies, Coding, Music, Video Games.
