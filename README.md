@@ -13,17 +13,17 @@
 
 
 ## Hey 👋, 
-I am Sandeep Ningwal. I work as Graduate Engineer Trainee at Aditya Birla Capital.<br>  I am passionate about technologies and open source.<br>
+I am Sandeep Ningwal. I work as Graduate Engineer Trainee at Aditya Birla Capital.<br>  I am passionate about new technologies and open source.<br>
 
 
 - What I know : Backend(ExpressJS,NodeJS), Frontend(ReactJS/NextJS), Software Engineering.
 - Some knowledge on : Developing REST APIs, Backend Developemnt, Data Science/ML, Big Data(Teradata). 
-- 🔭 I’m currently working as an Graduate Engineer Trainee at [Aditya Birla Capital]. 
+- 🔭 I’m currently working as an Graduate Engineer Trainee at Aditya Birla Capital. 
 - 🌱 Languages I know : Python3, C/C++, Java, JS.
 - ⚡ Languages I wanted to learn : Golang.
 - 💬 Major Hobbies : Marvel Movies, Coding, Music, Video Games.
 - ⚽ Sports I like : Foosball.
-- 😇 Talk to me about : Movies/Web Series.
+- 😇 Talk to me about : Movies/Web Series, emerging technologies - AI/ML.
 
 
 ---
