@@ -20,9 +20,9 @@ I am Sandeep Ningwal. I work as Graduate Engineer Trainee at Aditya Birla Capita
 - Some knowledge on : Developing REST APIs, Backend Developement, Data Science/ML, Big Data(Teradata). 
 - 🔭 I’m currently working as an Graduate Engineer Trainee at Aditya Birla Capital. 
 - 🌱 Languages I know : Python3, C/C++, Java, JS.
-- ⚡ Languages I wanted to learn : Golang, Spring Boot.
+- ⚡ Languages/Framework I wanted to learn : Golang, Spring Boot.
 - 💬 Major Hobbies : Marvel Movies, Coding, Music, Video Games.
-- ⚽ Sports I like : Foosball.
+- ⚽ Sports I like : Foosball,Cricket.
 - 😇 Talk to me about : Movies/Web Series, emerging technologies - AI/ML.
 
 
