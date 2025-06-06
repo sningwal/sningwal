@@ -1,4 +1,4 @@
-<h3  align="center"> Hello there! , I am <a href="https://sandeepningwal.com/" target='_blank'> Sandeep Ningwal </a> ✌ </h3>
+<h3  align="center"> Hello there! , I am <a href="https://sandeepningwal.com/" target='_blank'> Sandeep Ningwal </a></h3>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=sningwal&style=flat-square" alt="sningwal" /></p>
 
 
