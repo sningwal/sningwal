@@ -13,7 +13,7 @@
 
 
 ## Hey 👋, 
-I am Sandeep Ningwal. I work as Graduate Engineer Trainee at Aditya Birla Capital.<br>  I am passionate about new technologies and open source.<br>
+I am Sandeep Ningwal. I work as Software Developer at Aditya Birla Capital.<br>  I am passionate about new technologies and open source.<br>
 
 
 - What I know : Backend(ExpressJS, NodeJS), Frontend(ReactJS/NextJS), Software Engineering.
