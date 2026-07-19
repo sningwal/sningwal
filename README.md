@@ -13,8 +13,8 @@
 
 
 ## Hey 👋, 
-I am Sandeep Ningwal. I work as Software Developer at Aditya Birla Capital.<br>  I am passionate about new technologies and open source.<br>
-
+I am <strong>Sandeep Ningwal</strong>, a Software Developer who previously worked at <strong>Aditya Birla Capital</strong>.<br>
+I am passionate about backend engineering, distributed systems, open source, and exploring new technologies.<br>
 
 - What I know : Backend(ExpressJS, NodeJS), Frontend(ReactJS/NextJS), Software Engineering.
 - Some knowledge on : Developing REST APIs, Backend Developement, Data Science/ML, Big Data(Teradata). 
