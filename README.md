@@ -1,4 +1,4 @@
-<h3  align="center"> Hey 👋! , I am <a href="https://sandeepningwal.com/" target='_blank'> Sandeep Ningwal </a></h3>
+<h3  align="center"> Hey 👋, I am <a href="https://sandeepningwal.com/" target='_blank'> Sandeep Ningwal </a></h3>
 
 ## Hey 👋, 
 I am <strong>Sandeep Ningwal</strong>, a Software Developer who previously worked at <strong>Aditya Birla Capital</strong>.<br>
